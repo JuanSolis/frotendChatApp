@@ -1,0 +1,16 @@
+// User info
+
+
+// Rooms
+export const SET_ROOM = 'SET_ROOM';
+export const SET_LAST_ROOM = 'SET_LAST_ROOM';
+export const SET_RECEIVING_USER = 'SET_RECEIVING_USER';
+export const SET_SENDER_USER = 'SET_SENDER_USER';
+
+export const SET_CYPHER_MESSAGES_LIST = 'SET_CYPHER_MESSAGES_LIST';
+
+export const SET_SERVER_MESSAGES = 'SET_SERVER_MESSAGES';
+
+// Connection
+
+export const SET_SOCKET_CONNECTION = 'SET_SOCKET_CONNECTION';
